@@ -1,6 +1,8 @@
+<p>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="vertical-align: middle;">
+  <span style="vertical-align: middle; margin-left: 10px;"><b>Skills</b></span>
+</p>
 
-<br>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="45"><b>Skills</b>
 
 
 ### 👨🏽‍💻 Programming languages
