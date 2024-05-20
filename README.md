@@ -1,6 +1,6 @@
  <br/>
 
-# <div align="center">Hola, Soy Yahir, Un full-stack freelance developer en desarrollo 👨‍💻 🚀</div>  
+# <div align="center">¡Hola! Soy Yahir, un apasionado estudiante con grandes aspiraciones de convertirme en un desarrollador full-stack freelance. 🚀👨‍💻 </div>  
   <br/>
 
 - 🔭 I’m currently working on Skills  
