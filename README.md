@@ -10,7 +10,7 @@
   </a>
 &emsp;
 <a href="https://python.org/">
-    <src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
  
 
@@ -24,7 +24,7 @@
    </a>
   &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank"> 
-   <src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   </a>   
   &emsp;
   <a href="https://scikit-learn.org/" target="_blank">
