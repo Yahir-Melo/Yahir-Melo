@@ -47,10 +47,10 @@
  
 <p>
   &emsp;
-    <a href="https://www.debian.org/index.es.html"><img alt="Debian" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+    <a href="https://www.debian.org/index.es.html"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
   
   &emsp;
-    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
   
    
 
