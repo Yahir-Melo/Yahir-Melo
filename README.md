@@ -5,18 +5,14 @@
 <p align="left"> 
   
 
-  <a href="https://dart.dev/">
+  <a href="https://www.typescriptlang.org/">
     <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
 &emsp;
 <a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
-  &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-
+ 
 
 </p>
 
@@ -28,7 +24,7 @@
    </a>
   &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+   <src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   </a>   
   &emsp;
   <a href="https://scikit-learn.org/" target="_blank">
